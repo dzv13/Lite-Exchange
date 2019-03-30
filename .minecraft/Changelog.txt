@@ -1,0 +1,35 @@
+Removed EMC Values of some Machines and Pipes (Teirs are not respected)
+	mekanism:machineblock # anything with a factory variant basically
+	mekanism:transmitter # the pipes cables tubes etc
+	mekanism:gastank
+	mekanism:energycube
+	mekanism:basicblock|6 # bins
+	mekanism:machineblock2|11 # fluid tanks
+
+Removed Lots of ExtraUtilities2 Stuff
+	Deep Dark and Quarry Dimensions
+	Ironwood (There was no way to make it anyway)
+	Compressed Stuff (ExCompressum has ya covered)
+	Creative Item Variants (Like Decorative Bedrock)
+	Special Villagers (not needed bro)
+
+Modified a few Quests here and there. Not many.
+	Added Wooden Crucible to make Water Quest (Also removed one of the barrels from the barrel task)
+	Added Mushroom Stew Task
+	Added a Reward for the Philosopher Stone Task
+	Modified the Passive Mob Task to use ExCompressum Baits
+	Botania alfheim knowledge task tweaked to actually detect itself
+	Boomerang task doesn't rush and you can actually choose the reward you want properly
+	Energy Cube Tasks now actually work properly
+
+Increased ExCompressum Bait Chances
+Enabled Botania's Fancy Skybox
+Added Storage Drawers Mod (and chameleon dependency)
+Added ChunkLoader Mod
+Added EMC Value to Elytra
+Removed EMC value of the Lexicon Botania (ProjectE doesn't store the state of the knowledge inside of it)  
+Removed EMC value for the ExtraUtilities2 Energy Generators (Sadly ProjectE thinks they're all the same item)
+Enabled OreDict and Id Searching in JEI (it's client side you can change it back if you want)
+Added jei/worldSettings, chiselandbits_clipboard, quark_emotes/, controlstructures/, xreliquary/, and crash-reports/ to the .packignore file
+Most Update Notifications should be disabled now
+Moved the Command Block that does the dirt magic for each island around a lil bit (It's now directly above near world build limit)

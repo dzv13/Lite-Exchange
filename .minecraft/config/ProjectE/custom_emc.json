@@ -1,0 +1,228 @@
+{
+  "entries": [
+    {
+      "item": "projecte:item.pe_philosophers_stone|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:wool|*",
+      "emc": 48
+    },
+    {
+      "item": "exnihilocreatio:item_material|2",
+      "emc": 128
+    },
+    {
+      "item": "exnihilocreatio:block_dust|0",
+      "emc": 1
+    },
+    {
+      "item": "exnihilocreatio:item_ore_gold|0",
+      "emc": 512
+    },
+    {
+      "item": "exnihilocreatio:item_ore_iron|0",
+      "emc": 64
+    },
+    {
+      "item": "exnihilocreatio:item_ore_copper|0",
+      "emc": 32
+    },
+    {
+      "item": "exnihilocreatio:item_ore_tin|0",
+      "emc": 64
+    },
+    {
+      "item": "exnihilocreatio:item_ore_osmium|0",
+      "emc": 128
+    },
+    {
+      "item": "exnihilocreatio:item_pebble|3",
+      "emc": 4
+    },
+    {
+      "item": "exnihilocreatio:item_pebble|2",
+      "emc": 4
+    },
+    {
+      "item": "exnihilocreatio:item_pebble|1",
+      "emc": 4
+    },
+    {
+      "item": "exnihilocreatio:item_ore_gold|1",
+      "emc": 2048
+    },
+    {
+      "item": "exnihilocreatio:item_ore_osmium|1",
+      "emc": 512
+    },
+    {
+      "item": "exnihilocreatio:item_ore_copper|1",
+      "emc": 128
+    },
+    {
+      "item": "exnihilocreatio:item_ore_iron|1",
+      "emc": 256
+    },
+    {
+      "item": "exnihilocreatio:item_ore_tin|1",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:iron_nugget|0",
+      "emc": 28
+    },
+    {
+      "item": "exnihilocreatio:item_seed_birch|0",
+      "emc": 32
+    },
+    {
+      "item": "exnihilocreatio:item_seed_acacia|0",
+      "emc": 32
+    },
+    {
+      "item": "exnihilocreatio:item_seed_darkoak|0",
+      "emc": 32
+    },
+    {
+      "item": "exnihilocreatio:item_seed_spruce|0",
+      "emc": 32
+    },
+    {
+      "item": "exnihilocreatio:item_seed_oak|0",
+      "emc": 32
+    },
+    {
+      "item": "exnihilocreatio:item_seed_jungle|0",
+      "emc": 32
+    },
+    {
+      "item": "exnihilocreatio:item_seed_cactus|0",
+      "emc": 8
+    },
+    {
+      "item": "exnihilocreatio:item_seed_sugarcane|0",
+      "emc": 32
+    },
+    {
+      "item": "exnihilocreatio:item_seed_carrot|0",
+      "emc": 64
+    },
+    {
+      "item": "exnihilocreatio:item_seed_potato|0",
+      "emc": 64
+    },
+    {
+      "item": "botania:dye|*",
+      "emc": 16
+    },
+    {
+      "item": "botania:petal|*",
+      "emc": 16
+    },
+    {
+      "item": "botania:flower|*",
+      "emc": 32
+    },
+    {
+      "item": "botania:livingrock|0",
+      "emc": 1
+    },
+    {
+      "item": "botania:livingwood|0",
+      "emc": 32
+    },
+    {
+      "item": "extrautils2:ingredients|11",
+      "emc": 2048
+    },
+    {
+      "item": "xreliquary:witch_hat|0",
+      "emc": 2075
+    },
+    {
+      "item": "xreliquary:mob_ingredient|1",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:skull|0",
+      "emc": 3072
+    },
+    {
+      "item": "mekanism:enrichedalloy|0",
+      "emc": 320
+    },
+    {
+      "item": "mekanism:enrichediron|0",
+      "emc": 272
+    },
+    {
+      "item": "mekanism:otherdust|1",
+      "emc": 288
+    },
+    {
+      "item": "mekanism:controlcircuit|0",
+      "emc": 576
+    },
+    {
+      "item": "extrautils2:endershard|0",
+      "emc": 128
+    },
+    {
+      "item": "botania:twigwand|0",
+      "emc": 0
+    },
+    {
+      "item": "extrautils2:machine|0",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:basicblock|6",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:machineblock|*",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:configurator|0",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:gastank|0",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:energycube|0",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:transmitter|*",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:machineblock2|11",
+      "emc": 0
+    },
+    {
+      "item": "botania:lexicon|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:elytra|0",
+      "emc": 4096
+    },
+    {
+      "item": "minecraft:dragon_breath|0",
+      "emc": 4096
+    },
+    {
+      "item": "botania:manaresource|15",
+      "emc": 1
+    },
+    {
+      "item": "extrautils2:enderlilly|0",
+      "emc": 32
+    }
+  ]
+}
