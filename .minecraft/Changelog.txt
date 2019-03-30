@@ -1,3 +1,12 @@
+0.3:
+
+Added EMC Values for dragon breath, ender air bottles, and enderlillies
+Added the JEI config to the .packignore. You can set those as you'd wish
+Added files that can be autogen'd to the .packignore (splash.properties, some ore_excavation things, mcjtylib.cfg, baubles.cfg)
+Lowered the BuffTimers when you initially spawn. 
+
+0.2:
+
 Removed EMC Values of some Machines and Pipes (Teirs are not respected)
 	mekanism:machineblock # anything with a factory variant basically
 	mekanism:transmitter # the pipes cables tubes etc
