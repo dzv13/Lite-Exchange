@@ -1,6 +1,8 @@
 .minecraft/BotaniaVars.dat
+.minecraft/Changelog.txt
 .minecraft/config/baubles.cfg
 .minecraft/config/chiselsandbits_clipboard.cfg
+.minecraft/config/codechicken
 .minecraft/config/jei
 .minecraft/config/mcjtylib.cfg
 .minecraft/config/mekanism
@@ -25,5 +27,4 @@
 .minecraft/texturepacks
 .minecraft/usercache.json
 .minecraft/usernamecache.json
-instance.cfg
 natives
