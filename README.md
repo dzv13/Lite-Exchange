@@ -1,6 +1,6 @@
 # Lite-Exchange
 1) Download MultiMC (https://multimc.org/)
-2) Download the zip (https://github.com/dzv13/Lite-Exchange/releases/download/v3.1.1/Lite.Exchange-3.1.1.zip)
+2) Download the zip (https://github.com/dzv13/Lite-Exchange/releases/download/v3.1.2/Lite.Exchange-3.1.2.zip)
 3) Drag zip into MultiMC
 4) Launch. And Profit.
 
